@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /08_UF1307_JONATAN_ARROYO/
+
+User Agent: Googlebot
+
+Disallow: /css/
+Disallow /font/
+Disallow: /Images/
+Disallow: /Fotos-Web/
+Disallow: /js/
+
+
+User Agent: Googlebot-Image
+
+Disallow: /
+Disallow: /Images/
+Disallow: /Fotos-Web/
+
+Sitemap: http://www.iceicursoweb/alumnos/jonatan/sitemap.xml
